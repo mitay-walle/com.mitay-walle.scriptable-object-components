@@ -1,5 +1,5 @@
 {
-  "name": "ccom.mitay-walle.scriptable-object-components",
+  "name": "com.mitay-walle.scriptable-object-components",
   "version": "1.0.0",
   "displayName": "Scriptable Object Components",
   "description": "Allow to ScirptableObject.AddComponent<PlainScharpType>()",
