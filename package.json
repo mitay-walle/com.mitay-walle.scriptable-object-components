@@ -6,9 +6,6 @@
   "unity": "2018.4",
   "documentationUrl": "https://github.com/mitay-walle/GradientTexture/blob/main/README.md",
   "licensesUrl": "https://github.com/mitay-walle/GradientTexture/blob/main/LICENSE.md",
-  "dependencies": { 
-  "com.textus-games.serialized-reference-ui": "https://github.com/AllanSamurai/UnitySerializedReferenceUI.git"
-  },
  "keywords": [
     "ScirptableObject",
     "Data",
