@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ad0278ff2244a24b99792c19a784dff, type: 3}
+  m_Name: Scriptable Object with Components
+  m_EditorClassIdentifier: 
+  <Components>k__BackingField:
+  - rid: 106394547876266042
+  - rid: 106394547876266043
+  references:
+    version: 2
+    RefIds:
+    - rid: 106394547876266042
+      type: {class: Variables, ns: Mitaywalle.ScriptableObjectComponents.Samples.Scripts, asm: Mitaywalle.ScriptableObjectComponents.Samples}
+      data:
+        Keys:
+        - Durability
+        - Count
+        Values:
+        - 100
+        - 3
+    - rid: 106394547876266043
+      type: {class: Damageable, ns: Mitaywalle.ScriptableObjectComponents.Samples.Scripts, asm: Mitaywalle.ScriptableObjectComponents.Samples}
+      data:
+        Damage: {x: 5, y: 10}
+        CritChance: 30

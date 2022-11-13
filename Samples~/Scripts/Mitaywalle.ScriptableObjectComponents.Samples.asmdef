@@ -1,0 +1,16 @@
+{
+    "name": "Mitaywalle.ScriptableObjectComponents.Samples",
+    "rootNamespace": "Mitaywalle.ScriptableObjectComponents",
+    "references": [
+        "GUID:109e103a6b0a2974db5e0b4d08abaa02"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
